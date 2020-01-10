@@ -1,0 +1,7 @@
+{
+    "host":"showdb.cpjvekodayfl.us-east-2.rds.amazonaws.com",
+    "user":"showDB",
+    "password":"showshow",
+    "port": "3306",
+    "database": "showdb"
+}

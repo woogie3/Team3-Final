@@ -1,0 +1,7 @@
+.kakao {
+    /* margin-top: 100px; */
+    float: center;
+    width: 100%;
+    height: 400px;
+    pointer-events: none;
+  }

@@ -1,0 +1,10 @@
+.MuiTableRow-root .MuiPaper-root .MuiExpansionPanelSummary-root{
+    background-color: rgb(33, 40, 48);
+}
+.MuiTableRow-root .MuiPaper-root .MuiCollapse-container{
+    background-color: rgb(33, 40, 48);
+}
+
+.MuiTableRow-root .MuiExpansionPanel-root.Mui-expanded{
+    margin: 0;
+}

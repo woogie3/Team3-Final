@@ -1,0 +1,11 @@
+.MuiPaper-root{
+    background-color: slategrey;
+}
+
+.MuiTableHead-root .MuiTableCell-root, .MuiTableCell-head {
+    background-color: rgb(33, 40, 48);
+}
+
+.MuiTableCell-root div button{
+    background-color: rgb(33, 40, 48);
+}

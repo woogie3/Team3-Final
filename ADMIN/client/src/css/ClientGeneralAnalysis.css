@@ -1,0 +1,27 @@
+.user{
+    width: 400px;
+    float: left;
+}
+.genre{
+    width: 500px;
+    float: left;
+    margin-left: 40px;
+}
+.user-genre{
+    display: inline-block;
+    margin-left: 10%;
+}
+
+.funnel, .age , .gender{
+    width: 410px;
+    float: left;
+    margin: 5px;
+}
+.funnel-age-gender{
+    display: inline-block;
+    margin-top: 80px;
+}
+
+.general-all-chart{
+    margin: 50px 10px;
+}

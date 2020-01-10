@@ -1,0 +1,17 @@
+.containerSlide{
+    width: 100%;
+    /* margin: auto; */
+}
+
+.containerSlide img{
+    height: 400px;
+    width: 100%;
+    background-size: cover;
+    opacity: 50%;
+    /* backface-visibility: hidden; */
+    background-position: center center;
+    color: transparent;
+    left: 0px;
+
+}
+

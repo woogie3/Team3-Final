@@ -1,0 +1,20 @@
+/* .MuiInputBase-root .MuiInputBase-input {
+    color: white;
+    border-bottom: white 2px solid;
+    width: 45px;
+} */
+.MuiInputBase-root .MuiInputBase-input {
+    /* color: white; */
+    border-bottom: white 2px solid;
+    width: 100%;
+}
+.MuiTableCell-root button{
+    background-color: rgb(33, 40, 48);
+}
+.review_grade{
+    width: 40px;
+}
+
+.MuiTableCell-root .MuiFormControl-root .MuiInputBase-root input{
+    color: white;
+}

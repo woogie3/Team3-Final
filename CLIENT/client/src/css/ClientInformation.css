@@ -1,0 +1,15 @@
+.lock{
+    margin: 25px auto;
+    width: 80px;
+    height: 80px;
+}
+
+.lock-text{
+    text-align: center;
+    /* margin-top: 100px 0; */
+    padding: 25px 0 25px;
+}
+
+.lock-danger{
+    color: red;
+}

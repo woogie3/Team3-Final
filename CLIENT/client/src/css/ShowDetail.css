@@ -1,0 +1,45 @@
+.bottom-nav{
+    /* padding: 0 8%; */
+    margin: 10px 8% 0 ;
+}
+
+.MuiTableRow-root{
+    text-align: center;
+}
+
+.MuiExpansionPanelDetails-root{
+    padding-bottom: 0;
+}
+
+.middle-nav{
+    /* display: inline-block; */
+    float: left;
+    width: 33%;
+    margin: 10px 0;
+    /* height: auto; */
+} 
+
+input{
+    background-color: rgb(33, 40, 48);
+}
+
+.middle-nav .MuiButtonBase-root{
+    background-color: rgb(33, 40, 48);
+}
+
+.MuiCollapse-wrapper .MuiExpansionPanelDetails-root{
+    padding: 8px 24px 0px;
+}
+
+.add-button{
+    color: black;
+    background-color: red;
+}
+
+.MuiFormControl-root .MuiInput-root .MuiInputBase-input {
+    color: black;
+}
+
+.MuiTableCell-root img{
+    width: 400px;
+}

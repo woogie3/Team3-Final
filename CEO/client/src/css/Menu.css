@@ -1,0 +1,32 @@
+.button-link {
+    margin: spacing(1, 1.5)
+}
+
+.title-menu-img {
+    height: 80px;
+    width: auto;
+    margin-bottom: 15px;
+    margin-top: 15px;
+}
+
+
+.MuiTypography-root {
+    color: #212121;
+    font-size: 1.5em;
+    font-weight: 500;
+}
+
+.MuiTypography-colorTextPrimary {
+    color: #212121;
+    font-size: 1.5em;
+    font-weight: 500;
+}
+
+
+nav {
+    text-align: center;
+    margin-right: 3%;
+}
+
+
+

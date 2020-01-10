@@ -1,0 +1,151 @@
+a{
+    text-decoration: none;
+}
+
+.logo{
+    color:red;
+}
+.clearfix h2, .ext{
+    display: inline;
+    vertical-align: middle;
+    margin: 5px;
+}
+.button-link{
+    text-decoration: none;
+    padding: 0 12px;
+    margin-right: 10;
+}
+.button-link :hover{
+    text-decoration: none;
+}
+
+/* 반응형 웹으로 수정시 아래 수정 */
+.owner-header>div{
+    position: relative;
+    min-width: 960px;
+    margin:0 auto;
+    padding: 18px 20px 16px 20px;
+}
+.owner-header .ext {
+    color:#E0E0E0;
+    float: right;
+}
+.owner-header{
+    border-bottom: 2px solid #E0E0E0;
+}
+ul, ol{
+    list-style: none;
+}
+
+.owner-header .ext>li {
+    float: left;
+}
+.own-container{
+    min-width: 996px;
+}
+.own-main{
+    width: 860px;
+    margin: 40px auto 0 auto;
+}
+
+.own-main .nav{
+    width: 860px;
+    border: 2px solid #ccc;
+    list-style: none;
+    margin-bottom: 10px;
+}
+
+.own-main .nav>li{
+    float: left;
+    border-right: 2px solid #ccc;
+}
+
+.own-main .nav>li>a {
+    display: block;
+    width: 212px;
+    height: 200px;
+    color: #646464;
+    font-size: 14px;
+    text-align: center;
+    text-decoration: none;
+    padding: 10px;
+    box-sizing: border-box;
+}
+.own-main li.n4{
+    border-right: none;
+}
+body, p, h1, h2, h3, h4, h5, h6, ul, ol, li, dl, dt, dd, table, th, td, form, fieldset, legend, input, textarea, button, select, figure, figcaption {
+    margin: 0;
+    padding: 0;
+}
+
+.analysis , .qna {
+    width: 150px;
+    height: 150px;
+    padding: 10px;
+}
+.troup-management{
+    width: 105px;
+    height: 105px;
+    padding: 20x;
+    margin-top: 20px;
+}
+.troup-insert{
+    width: 130px;
+    height: 130px;
+    padding: 8px;
+}
+
+.banner{
+    float: left;
+    width: 60%;
+    position: relative;
+}
+
+.owner-login{
+    float: right;
+    width: 240px;
+    height: 400px;
+    font-size: 12px;
+    padding-right: 6px;
+}
+
+.owner-login .inp-txt {
+    border: 1px solid #AEAEAE;
+    background: #FAFAFA;
+    width: 100%;
+    height: 37px;
+    font-size: 12px;
+}
+
+#footer{
+    background-color: #E0E0E0;
+    margin-top: 50px;
+    padding: 20px;
+}
+
+.small-banner{
+    width: 100%;
+    height: 264px;
+    margin: 20px 0;
+}
+.clearfix h2, .ext {
+    margin-top : 50px;
+}
+
+.title-menu {
+    height: 80px;
+    width: auto;
+    margin-bottom: 0px;
+    margin-top: 0px;
+}
+.banner-img {
+    width: 230px;
+    height: 250px;
+}
+.barlogin {
+    margin-bottom: 55px;
+}
+.barlogout {
+    margin-bottom: 10px;
+}

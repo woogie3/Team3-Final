@@ -1,0 +1,14 @@
+.fc-content{
+    background-color: rgb(88, 61, 88);
+
+}
+
+.fc-event{
+    border: rgb(88, 61, 88)1px solid;
+    background-color: rgb(88, 61, 88);
+}
+
+.fc-unthemed td.fc-today{
+    background: rgb(74, 84, 94);
+}
+
