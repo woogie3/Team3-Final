@@ -34,7 +34,7 @@
     "redux": "^4.0.5",
     "redux-thunk": "^2.3.0",
     "sequelize": "^5.21.3",
-    "yarn": "^1.21.1",
+    "yarn": "^1.22.0",
     "zxcvbn": "^4.4.2"
   },
   "devDependencies": {
